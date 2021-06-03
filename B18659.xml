@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Corporation of the Great Level of the Fenns; relating to a bill depending in Parliament, for the better preservation of the navigation of the port of Kings-Lynn; which bill is for taking away the sluce at Denver-Dam, upon the river of Great Owze, in the County of Norfolk.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18659</idno><idno type="EEBO-CITATION">99886761</idno>
+  <idno type="VID">189424</idno>
+  <idno type="EEBO-PROQUEST">2240886982</idno>
+  
+            <idno type="STC">Wing C1053A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[1*]</idno>
+            <idno type="STC">ESTC R226565</idno>
+            <idno type="PROQUEST">ocm99886761</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886761e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189424)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:2[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Corporation of the Great Level of the Fenns; relating to a bill depending in Parliament, for the better preservation of the navigation of the port of Kings-Lynn; which bill is for taking away the sluce at Denver-Dam, upon the river of Great Owze, in the County of Norfolk.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Inland navigation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Ouse River (England) --  Early works to 1800.</term>
+               <term type="geographic_name">King's Lynn (England) --  Early works to 1800.</term>
+               <term type="geographic_name">Bedford Level (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:189424:1"/>
+            <head>THE CASE OF THE <hi>Corporation of the Great Level of the Fenns;</hi> RELATING TO A BILL Depending in Parliament, For the better Preservation of the Navigation of the Port of <hi>Kings-Lynn;</hi> which Bill is for taking away the Sluce at <hi>Denver-Dam,</hi> upon the River of <hi>Great Owze,</hi> in the County of <hi>Norfolk.</hi>
+            </head>
+            <p>FOR Draining the Great Level of the Fenns, called <hi>Bedford-Level,</hi> the said Sluce was in the Year 1652. begun and set down at <hi>Denver-Dam</hi> (which is Fifteen Miles above the Town of <hi>Kings-Lynn</hi>) whereby the Tides were then stopp'd, as now they are.</p>
+            <p>At the same time a New River was cut One Hundred Foot wide, and Twenty One Miles long (the Mouth of it ad<g ref="char:EOLhyphen"/>joining to the said Sluce) which does most effectually receive the Tide as many Miles up into the Country, and in as great Quantity, as the River of <hi>Great Owze</hi> did before: And the Tides at <hi>Lynn</hi> flow as high as ever they did, which shews that the Flow and Reflow of the Sea, are the same as formerly; but with this Advantage' to the Harbour of <hi>Lynn,</hi> that more fresh Wa<g ref="char:EOLhyphen"/>ter now comes thither Compress'd between Banks, than ever they had before the Draining.</p>
+            <div type="part">
+               <head>Navigation is not prejudiced by the said Works, but made better: For,</head>
+               <p n="1">I. The Navigation in the New Cut River to St. <hi>Ives, Huntingdon,</hi> and St. <hi>Neots,</hi> is much quicker than before; by which means, the Counties of <hi>Huntingdon, Bedford, Buckingham,</hi> and part of <hi>Northamptonshire,</hi> are far better accommodated than formerly.</p>
+               <p n="2">II. As to the Navigation of the River of <hi>Great Owze,</hi> above the said Sluce, there are fresh Doors at the Sluce, by which all the Waters upwards, are (when low) held up, whereby the Navigation is maintained at all times in the Year; which before, was by the Lowness of the Water, perfectly obstructed for some Mouths in dry Seasons, so that by means of those fresh Doors, the Navigation to <hi>Cambridge, Norfolk,</hi> and <hi>Suffolk,</hi> through the Level, is much more certain than formerly, which does more than Compensate the not flowing of the Tides in those Rivers: And if Boats, or Vessels, be at any time stopp'd by the Sluce, 'tis for want of observing the times of the Tides, which being observ'd, the Navigation is free and open.</p>
+               <p n="3">III. As to the Navigation from the said Sluce at <hi>Denver-Dam,</hi> to <hi>Germains-Bridge</hi> (being about Ten Miles downwards, where the Banks of the River of <hi>Great Owze</hi> stand near) it is at Low Water in some places Ten Foot, and in others Twelve and Fourteen Foot deep, and the Navigation very good.</p>
+               <p n="4">IV. As to the Navigation between <hi>Germains-Bridge</hi> and the South-end of <hi>Kings-Lynn,</hi> and below <hi>Lynn</hi> to the Sea, it was always uncertain and dangerous, by reason of the shifting of the Sands, Pilots being ever used in steering all Vessels navi<g ref="char:EOLhyphen"/>gating there: And if it be now worse than formerly, it is occasioned by the removing the Banks on <hi>Marshland</hi> side, both above and below <hi>Lynn,</hi> to that great distance (they being about a Mile asunder) that the Reflux of the Sea cannot sufficiently operate to grind out the Silt and Sand in the Channel, although the Reflux is followed by more fresh Waters than formerly, which run through the Level with a stronger Current than ever before the Draining; for no Channel can be preserved deep, where the Banks are so far asunder.</p>
+               <p n="5">V. The Inhabitants of <hi>Kings-Lynn,</hi> by laying much Rubbish on their side of the Channel, all along their Town, for about a Mile in length, where the River was narrow, have forced the Channel on the opposite side upon <hi>Old Lynn,</hi> which has destroyed several Houses, and made the Channel there much wider than it was before the Sluce was set down at <hi>Denver-Dam;</hi> by means whereof, a far greater quantity of Silt or Sand is brought in by the Tide, which choaks up the Channel between <hi>Lynn</hi> and <hi>Germains-Bridge,</hi> where the Banks are so wide asunder: All which Banks, from the said Sluce to the Sea, are out of the Level, and are to be maintained by the adjacent Inhabitants.</p>
+               <p n="6">VI. These Fenns were Drained, by means of the said Sluce, and other Works, at the Charge of above 200000 Pounds, laid out before any Possession or Perception of Profits. In Consideration of which, the <hi>Act</hi> of 15 <hi>Car.</hi> II. Passed, for making the Duke of <hi>Bedford,</hi> and others, a Corporation for the Government and Preservation of the Works of the Level; and thereby vesting 83000 Acres of the said Level, and the said Works, Banks and Drains in the Corporation, and 12000 Acres in the Crown. Since which, great Numbers of Persons depending upon the Security of the said <hi>Act</hi> of 15 <hi>Car.</hi> II. have pur<g ref="char:EOLhyphen"/>chased of the Corporation, and others, great quantities of Drained Lands, and have enjoyed them quietly, and made Settle<g ref="char:EOLhyphen"/>ments thereof, which are the sole Maintenance of divers Families, Widows and Orphans, whose utter Ruine will ensue, in case the said Sluce be pulled up; which inevitably will occasion the Drowning above 100000 Acres of Ground, and in consequence the Destruction and Loss of the whole Level, containing above 300000 Acres; All which is now well Cul<g ref="char:EOLhyphen"/>tivated and Peopled, to the vast Advantage of the Kingdom: And that the taking up of the said Sluce will not remedy the Silt<g ref="char:EOLhyphen"/>ing and Sanding up of that part of the River <hi>Owze</hi> between <hi>Germains-Bridge</hi> and the Town of <hi>Lynn.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:189424:2"/>
+            <p>THE CASE OF The Corporation of the <hi>Great Level of the Fenns,</hi> AGAINST The Bill relating to the Port of <hi>Kings-Lynn.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
